@@ -1,6 +1,11 @@
-<p align="center"><img src="./assets/kairo-cover.svg" alt="Kairo — Lolo's selected work, dark ink and dusty rose" width="100%"></p>
+<p align="center"><a href="https://lolomutekai.github.io/kairo-alcove/"><img src="./assets/kairo-cover.svg" alt="Open the interactive Kairo showcase — Lolo's selected work" width="100%"></a></p>
 
 # Kairo · selected work
+
+### [Open the interactive showcase ↗](https://lolomutekai.github.io/kairo-alcove/)
+
+The floral background follows your pointer and the K sculpture changes
+perspective on the website. This repository contains the notebook and source.
 
 Software, persistent AI systems and personal worlds, built by Lolo.
 
