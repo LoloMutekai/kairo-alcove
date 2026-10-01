@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="470" viewBox="0 0 1100 470" role="img" aria-labelledby="title desc">
+  <title id="title">A.C.C.E.S.S. — the public notebook</title>
+  <desc id="desc">Dark ink, dusty rose, a line drawing of a ribbon and a delicate flower frame a notebook on persistent systems and explicit boundaries.</desc>
+  <defs>
+    <linearGradient id="ink" x2="1" y2="1"><stop stop-color="#17131b"/><stop offset="1" stop-color="#0d0e12"/></linearGradient>
+    <radialGradient id="rose"><stop stop-color="#c98ba0" stop-opacity=".12"/><stop offset="1" stop-color="#c98ba0" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#d0b3c0" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1100" height="470" rx="20" fill="url(#ink)"/>
+  <rect width="1100" height="470" rx="20" fill="url(#grid)"/>
+  <ellipse cx="875" cy="218" rx="265" ry="230" fill="url(#rose)"/>
+  <rect x="20" y="20" width="1060" height="430" rx="11" fill="none" stroke="#c98ba0" stroke-opacity=".22"/>
+  <g fill="#b4acbc" font-family="Arial, sans-serif">
+    <text x="62" y="68" font-size="15" letter-spacing="3">LOLO · TECHNICAL NOTES</text>
+    <text x="62" y="185" fill="#f2e8ed" font-family="Georgia, serif" font-size="78">A.C.C.E.S.S.</text>
+    <text x="64" y="232" fill="#d7a5b8" font-family="Georgia, serif" font-size="28" font-style="italic">persistent systems, explicit boundaries</text>
+    <text x="64" y="306" font-size="18">What persists. What crosses a boundary.</text>
+    <text x="64" y="334" font-size="18">What reaches its consumer.</text>
+    <text x="64" y="417" fill="#c98ba0" font-size="15" letter-spacing="2">MODEL · ARGUMENT · COUNTEREXAMPLE</text>
+  </g>
+  <path d="M64 365H644" stroke="#c98ba0" stroke-opacity=".3"/>
+  <g transform="translate(890 200)" fill="none" stroke="#c98ba0" stroke-width="1.7">
+    <ellipse rx="112" ry="134" stroke-opacity=".18"/>
+    <ellipse rx="96" ry="119" stroke-opacity=".14"/>
+    <path d="M-7 0C-78-67-104-36-65 8C-41 34-20 9-7 0ZM7 0C78-67 104-36 65 8C41 34 20 9 7 0Z" fill="#c98ba0" fill-opacity=".045"/>
+    <ellipse rx="11" ry="14"/>
+    <path d="M-6 14C-15 48-57 77-69 101L-42 97L-34 117C-4 76 4 42 0 14M6 14C15 48 57 77 69 101L42 97L34 117C4 76-4 42 0 14"/>
+    <path d="M-112-82h12m-6-6v12M112 80h12m-6-6v12" stroke-opacity=".65"/>
+  </g>
+  <g transform="translate(1032 407)" fill="none" stroke="#c98ba0" stroke-width="1.1">
+    <circle r="4"/><ellipse cy="-13" rx="5" ry="9"/><ellipse cy="-13" rx="5" ry="9" transform="rotate(72)"/><ellipse cy="-13" rx="5" ry="9" transform="rotate(144)"/><ellipse cy="-13" rx="5" ry="9" transform="rotate(216)"/><ellipse cy="-13" rx="5" ry="9" transform="rotate(288)"/>
+  </g>
+</svg>
